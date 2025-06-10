@@ -3,7 +3,7 @@ tf-keras==2.19.0
 fastapi
 uvicorn
 python-multipart
-opencv-python
+opencv-python-headless
 pandas
 numpy
 requests
