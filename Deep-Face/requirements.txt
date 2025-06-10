@@ -1,2 +1,12 @@
 deepface==0.0.93
 tf-keras==2.19.0
+fastapi
+uvicorn
+python-multipart
+opencv-python
+pandas
+numpy
+requests
+scikit-learn
+tensorflow
+deepface
